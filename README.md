@@ -16,7 +16,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icarox52&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=compact&theme=tokyonight)
 
 
 
