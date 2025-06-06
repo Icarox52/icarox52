@@ -11,8 +11,7 @@
 
 ### Technologies I use in my daily work
 
-<div style="display: inline_block"><br>
-### [![My Skills](https://skillicons.dev/icons?i=HTML,CSS,javascript,nodejs,vscode,Bootstrap,Tailwind,Git,Github,React,Firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=HTML,CSS,javascript,nodejs,vscode,Bootstrap,Tailwind,Git,Github,React,Firebase)](https://skillicons.dev)
 
      
       
