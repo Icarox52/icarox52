@@ -13,10 +13,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icarox52&show_icons=true&theme=tokyonight)
 
-## ⏱️ Tempo de programação por linguagem (via WakaTime)
-
-![WakaTime Languages](https://github-readme-stats.vercel.app/api/wakatime?username=icarox52&layout=compact&langs_count=10&theme=tokyonight)
-
 
 
 ### Technologies I use in my daily work
