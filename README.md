@@ -8,7 +8,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmericaro/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=donut&show_icon=true&theme=gruvbox)](https://github.com/icarox52/github-readme-stats)
+
+<br>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icarox52&show_icons=true&theme=tokyonight)
+
 
 ### Technologies I use in my daily work
 
