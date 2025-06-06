@@ -1,4 +1,7 @@
-# Hi, I'm Ícaro Machado! 👾🎮
+# <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=600&lines=Hi,+I'm+%C3%8Dcaro+Machado!+%F0%9F%91%BE%F0%9F%8E%AE" alt="Typing SVG" />
+</p>
+
 ### 👨‍💻 Fullstack developer with 12 years of experience, passionate about technology! I work with JavaScript and several modern frameworks, creating complete projects — from frontend to backend. Always learning and evolving. 🚀
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@icaroxrz7)
