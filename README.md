@@ -14,9 +14,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,vscode,bootstrap,tailwind,git,github,react,firebase)](https://skillicons.dev)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icarox52&show_icons=true&theme=tokyonight)
-
-
 
 
 
