@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Estátiticas
+
+<p>
+    <img align="left" alt="Firebase" title="Firebase" height="250px" width="350px" style="padding-right: 10px;"  src="https://github-readme-stats.vercel.app/api?username=icarox52&show=reviews&theme=white&locale=pt-br" />
+</p>
+
+
 ## Liguagens e tecnologias⚙️💻🌐
 
 <p>
