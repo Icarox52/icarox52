@@ -1,4 +1,5 @@
-## Hi, I'm Ícaro Machado 💻🌐
+# Hi, I'm Ícaro Machado 💻🌐
+## Full Stack Developer | 12 years | Turning ideas into reality☕
 
 <!--
 **Icarox52/icarox52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
