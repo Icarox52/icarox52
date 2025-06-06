@@ -1,5 +1,5 @@
 # Hi, I'm Ícaro Machado! 👾🎮
-### Software developer and tech enthusiast with a focus on web development, APIs, and data-driven applications. Passionate about coding and learning new technologies.
+### 👨‍💻 Fullstack developer with 12 years of experience, passionate about technology! I work with JavaScript and several modern frameworks, creating complete projects — from frontend to backend. Always learning and evolving. 🚀
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@icaroxrz7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmericaro/)
