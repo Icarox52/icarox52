@@ -14,7 +14,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,vscode,bootstrap,tailwind,git,github,react,firebase)](https://skillicons.dev)
 
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=icarox52)](https://wakatime.com/@icarox52)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icarox52&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=compact&theme=tokyonight)
+
 
 
 
