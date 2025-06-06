@@ -44,5 +44,10 @@ Here are some ideas to get you started:
 </p>
 
 <img align="left" alt="React" title="React" width="50px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+
+
+<p>
+    <img align="left" alt="Firebase" title="Firebase" width="50px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
+</p>
           
 <img src="https://github.com/Icarox52/icarox52/blob/main/github-user-contribution.svg">
