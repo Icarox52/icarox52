@@ -21,26 +21,26 @@ Here are some ideas to get you started:
 ## Liguagens e tecnologias⚙️💻🌐
 
 <p>
-    <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+    <img align="left" alt="HTML" title="HTML" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 </p>
 
 
 <p>
-    <img <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+    <img <img align="left" alt="CSS" title="CSS" width="50px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 </p>
 
 
 <p>
-    <img <img align="left" alt="javascript" title="javascript" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img <img align="left" alt="javascript" title="javascript" width="50px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </p>
 
 <p>
-    <img <img align="left" alt="bootstrap" title="bootstrap" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+    <img <img align="left" alt="bootstrap" title="bootstrap" width="50px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
 </p>
 
 
 <p>
-    <img <img align="left" alt="tailwindcss" title="tailwindcss" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+    <img <img align="left" alt="tailwindcss" title="tailwindcss" width="50px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </p>
           
 <img src="https://github.com/Icarox52/icarox52/blob/main/github-user-contribution.svg">
