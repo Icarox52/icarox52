@@ -43,6 +43,6 @@ Here are some ideas to get you started:
     <img <img align="left" alt="tailwindcss" title="tailwindcss" width="50px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </p>
 
-<img <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="React" title="React" width="50px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
           
 <img src="https://github.com/Icarox52/icarox52/blob/main/github-user-contribution.svg">
