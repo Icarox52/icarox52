@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 <p>
-    <img <img align="left" alt="tailwindcss" title="tailwindcss" width="50px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+    <img <img align="left" alt="tailwindcss" title="tailwindcss" width="50px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </p>
           
 <img src="https://github.com/Icarox52/icarox52/blob/main/github-user-contribution.svg">
