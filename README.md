@@ -1,4 +1,4 @@
-# Hi, I'm Luana! 👾🎮
+# Hi, I'm Ícaro Machado! 👾🎮
 ### Software developer and tech enthusiast with a focus on web development, APIs, and data-driven applications. Passionate about coding and learning new technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-forte-9b0264303)
