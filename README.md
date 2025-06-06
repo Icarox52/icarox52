@@ -1,4 +1,4 @@
-# Hi, I'm Ícaro Machado! 👾🎮
+![Typing Hi I'm Ícaro](URL-DO-GIF-AQUI)
 ### 👨‍💻 Fullstack developer with 12 years of experience, passionate about technology! I work with JavaScript and several modern frameworks, creating complete projects — from frontend to backend. Always learning and evolving. 🚀
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@icaroxrz7)
