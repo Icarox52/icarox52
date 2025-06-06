@@ -1,8 +1,9 @@
 # Hi, I'm Ícaro Machado! 👾🎮
 ### Software developer and tech enthusiast with a focus on web development, APIs, and data-driven applications. Passionate about coding and learning new technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-forte-9b0264303)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lulesf?igsh=MWViNHA2Z2J0YWVyaQ==)
+[![TikTok](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-forte-9b0264303)
+[![Instagram](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
+)](https://www.instagram.com/programmericaro/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=donut&show_icon=true&theme=gruvbox)](https://github.com/luanaforte/github-readme-stats)
 
