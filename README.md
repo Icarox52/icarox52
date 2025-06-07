@@ -37,34 +37,8 @@
 
 </div>
 
-# Meu Projeto
-
-## 🎨 Efeito Hover (CSS)
-
-
-
-nav a {
-  position: relative;
-  color: #556B2F;
-  text-decoration: none;
-}
-
-nav a::after {
-  content: "";
-  position: absolute;
-  bottom: -4px;
-  left: 0;
-  width: 0%;
-  height: 2px;
-  background-color: #556B2F;
-  transition: width 0.3s ease;
-}
-
 
 
 
 <img src="https://raw.githubusercontent.com/Icarox52/Icarox52/main/github-user-contribution.svg">
-
-
-
 
