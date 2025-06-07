@@ -23,27 +23,27 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,vscode,bootstrap,tailwind,git,github,react,firebase)](https://skillicons.dev)
 
 
-### 🚀 Featured Projects
+### 🚀 Projetos Destacados
 
-<div align="center" style="margin: 20px 0;">
+<div align="center">
 
-| Project | Tech Stack | Description | Live Demo |
-|---------|------------|-------------|----------|
-| **[✨ Personal Portfolio](https://icarox52.github.io/portfolio-dev/)** | <div style="display: flex; gap: 5px;">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)</div> | Modern responsive portfolio showcasing my projects and skills | [🌐 View Live](https://icarox52.github.io/portfolio-dev/) |
-| **[🎮 Checkers Game](https://icarox52.github.io/jogoDeDamasparte2./)** | <div style="display: flex; gap: 5px;">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)</div> | Interactive checkers game with complete rules implementation | [▶️ Play Now](https://icarox52.github.io/jogoDeDamasparte2./) |
-| **[🛍️ FakeStore API](https://icarox52.github.io/fakeStoreApi/)** | <div style="display: flex; gap: 5px;">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)</div> | E-commerce demo with product filtering and cart functionality | [🔍 Explore Store](https://icarox52.github.io/fakeStoreApi/) |
-| **[💬 Realtime Chat](https://icarox52.github.io/chat/)** | <div style="display: flex; gap: 5px;">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)</div> | Instant messaging app with message history using Local Storage | [💬 Start Chatting](https://icarox52.github.io/chat/) |
+| Projeto | Tecnologias | Descrição | Demo |
+|---------|------------|-----------|------|
+| **[<img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width=20> Portfólio Pessoal](https://icarox52.github.io/portfolio-dev/)** | <div style="display: flex; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=24 title="Bootstrap"> </div> | Meu portfólio profissional com design moderno e responsivo | <a href="https://icarox52.github.io/portfolio-dev/" target="_blank"><img src="https://img.shields.io/badge/-Acessar%20Demo-2ea44f?style=for-the-badge&logo=github&logoColor=white"></a> |
+| **[<img src="https://cdn-icons-png.flaticon.com/512/2693/2693471.png" width=20> Jogo de Damas](https://icarox52.github.io/jogoDeDamasparte2./)** | <div style="display: flex; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript"> </div> | Jogo completo com regras tradicionais e interface intuitiva | <a href="https://icarox52.github.io/jogoDeDamasparte2./" target="_blank"><img src="https://img.shields.io/badge/-Jogar%20Agora-2ea44f?style=for-the-badge&logo=gamejolt&logoColor=white"></a> |
+| **[<img src="https://cdn-icons-png.flaticon.com/512/3144/3144456.png" width=20> FakeStore API](https://icarox52.github.io/fakeStoreApi/)** | <div style="display: flex; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=24 title="Bootstrap"> </div> | Loja virtual consumindo API com carrinho de compras | <a href="https://icarox52.github.io/fakeStoreApi/" target="_blank"><img src="https://img.shields.io/badge/-Testar%20Demo-2ea44f?style=for-the-badge&logo=shopping-bag&logoColor=white"></a> |
+| **[<img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width=20> Chat Online](https://icarox52.github.io/chat/)** | <div style="display: flex; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=24 title="Node.js"> </div> | Chat em tempo real com histórico de mensagens | <a href="https://icarox52.github.io/chat/" target="_blank"><img src="https://img.shields.io/badge/-Acessar%20Chat-2ea44f?style=for-the-badge&logo=chatbot&logoColor=white"></a> |
 
 </div>
 
 <details>
-<summary>📸 Project Previews</summary>
+<summary>📸 Preview dos Projetos</summary>
 <br>
-  
-![Portfolio Preview](https://via.placeholder.com/400x225/33363c/ffffff?text=Portfolio+Screenshot)  
-![Checkers Game Preview](https://via.placeholder.com/400x225/33363c/ffffff?text=Checkers+Game)  
-![FakeStore Preview](https://via.placeholder.com/400x225/33363c/ffffff?text=FakeStore+Demo)  
-![Chat App Preview](https://via.placeholder.com/400x225/33363c/ffffff?text=Chat+Interface)  
+
+![Portfolio Preview](https://via.placeholder.com/600x350/5865F2/FFFFFF?text=Portfólio+Icaro)
+![Jogo de Damas Preview](https://via.placeholder.com/600x350/5865F2/FFFFFF?text=Jogo+de+Damas)  
+![FakeStore Preview](https://via.placeholder.com/600x350/5865F2/FFFFFF?text=FakeStore+API)  
+![Chat Preview](https://via.placeholder.com/600x350/5865F2/FFFFFF?text=Chat+Online)  
 
 </details>
 
