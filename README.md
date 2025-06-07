@@ -4,6 +4,8 @@
 
 ### 👨‍💻 Fullstack developer, I'm 12 years old and I'm passionate about technology! I work with JavaScript and modern frameworks, creating complete projects — from frontend to backend. Always learning and evolving. 🚀
 
+### 💻 I'm enrolled in a professional full stack development course focused on practical, real-world skills (HTML, CSS, JavaScript, React, Node.js, databases, Git, and more).
+
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@icaroxrz7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmericaro/)
 
