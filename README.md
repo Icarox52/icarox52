@@ -25,16 +25,27 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
 
-| Project | Technologies | Description | Demo |
-|---------|------------|-----------|------|
-| **[🌟 Personal Portfolio](https://icarox52.github.io/portfolio-dev/)** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"> | My professional portfolio developed with fundamental web technologies and responsive design. | [🔗 Watch Online](https://icarox52.github.io/portfolio-dev/) |
-| **[♟️ Checkers Game](https://icarox52.github.io/jogoDeDamasparte2./)** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> |Complete checkers game with movement logic and interactive interface. | [🎮 Play Now](https://icarox52.github.io/jogoDeDamasparte2./) |
-| **[🛒 FakeStore API](https://icarox52.github.io/fakeStoreApi/)** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"> | Functional e-commerce consuming public API with cart system. | [🛍️ Test Demo](https://icarox52.github.io/fakeStoreApi/) |
-| **[💬 Online Chat](https://icarox52.github.io/chat/)** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"> | Real-time chat application with Node.js backend. Using Local Storage | [💻 Access Chat](https://icarox52.github.io/chat/) |
+| Project | Tech Stack | Description | Live Demo |
+|---------|------------|-------------|----------|
+| **[✨ Personal Portfolio](https://icarox52.github.io/portfolio-dev/)** | <div style="display: flex; gap: 5px;">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)</div> | Modern responsive portfolio showcasing my projects and skills | [🌐 View Live](https://icarox52.github.io/portfolio-dev/) |
+| **[🎮 Checkers Game](https://icarox52.github.io/jogoDeDamasparte2./)** | <div style="display: flex; gap: 5px;">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)</div> | Interactive checkers game with complete rules implementation | [▶️ Play Now](https://icarox52.github.io/jogoDeDamasparte2./) |
+| **[🛍️ FakeStore API](https://icarox52.github.io/fakeStoreApi/)** | <div style="display: flex; gap: 5px;">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)</div> | E-commerce demo with product filtering and cart functionality | [🔍 Explore Store](https://icarox52.github.io/fakeStoreApi/) |
+| **[💬 Realtime Chat](https://icarox52.github.io/chat/)** | <div style="display: flex; gap: 5px;">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)</div> | Instant messaging app with message history using Local Storage | [💬 Start Chatting](https://icarox52.github.io/chat/) |
 
 </div>
+
+<details>
+<summary>📸 Project Previews</summary>
+<br>
+  
+![Portfolio Preview](https://via.placeholder.com/400x225/33363c/ffffff?text=Portfolio+Screenshot)  
+![Checkers Game Preview](https://via.placeholder.com/400x225/33363c/ffffff?text=Checkers+Game)  
+![FakeStore Preview](https://via.placeholder.com/400x225/33363c/ffffff?text=FakeStore+Demo)  
+![Chat App Preview](https://via.placeholder.com/400x225/33363c/ffffff?text=Chat+Interface)  
+
+</details>
 
 
 
