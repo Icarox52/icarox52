@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,vscode,bootstrap,tailwind,git,github,react,firebase)](https://skillicons.dev)
 
 
-### 🚀 Projetos Destacados
+### 🚀 Featured Projects
 
 <div align="center">
 
