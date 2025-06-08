@@ -1,7 +1,7 @@
 # <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&width=600&lines=Hi,+I'm+Ícaro+Machado!+🌐+💻" alt="Typing SVG" />
 </p>
-bsbsb
+
 ### 👨‍💻 Fullstack developer, I'm 12 years old and I'm passionate about technology! I work with JavaScript and modern frameworks, creating complete projects — from frontend to backend. Always learning and evolving.🚀
 
 ### 💻 I'm enrolled in a professional full stack development course focused on practical, real-world skills (HTML, CSS, JavaScript, React, Node.js, databases, Git, and more).
