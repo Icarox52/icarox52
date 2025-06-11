@@ -1,4 +1,4 @@
- <p align="center">
+# <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&width=600&lines=Hi,+I'm+Ícaro+Machado!+🌐+💻" alt="Typing SVG" />
 </p>
 
