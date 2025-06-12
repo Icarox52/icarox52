@@ -42,5 +42,5 @@
 
 
 
-<img src="file:///D:/Users/Gardenia/Downloads/github-user-contribution%20(3).svg">
+<img src="">
 
