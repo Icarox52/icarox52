@@ -16,7 +16,7 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icarox52&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranieryfialho&theme=tokyonight&hide_border=true" />
 
 
 
