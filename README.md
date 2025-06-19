@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=icarox52&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight&hide_border=true" />
 
 
 
