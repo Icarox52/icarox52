@@ -33,22 +33,22 @@
 
 ---
 
-### 🌈 Projetos Destacados
+### 🚀 Featured Projects
 
 <div align="center">
 
-| Projeto       | Tecnologias           | Descrição                | Links        |
-|--------------|-----------------------|--------------------------|--------------|
-| **🎨 Portfolio**  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Portfolio pessoal responsivo | **[Demo](https://icarox52.github.io/PortfolioNovo/)** · **[Código](https://github.com/icarox52/PortfolioNovo)** |
-| **♟️ Jogo de Damas** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Jogo de damas tradicional | **[Jogar](https://icarox52.github.io/jogoDeDamasparte2./)** · **[Código](https://github.com/icarox52/jogoDeDamasparte2.)** |
-| **🛒 FakeStore** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | Loja virtual com carrinho | **[Demo](https://icarox52.github.io/fakeStoreApi/)** · **[Código](https://github.com/icarox52/fakeStoreApi)** |
-| **💬 Chat Online** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) | Chat em tempo real | **[Testar](https://icarox52.github.io/chat/)** · **[Código](https://github.com/icarox52/chat)** |
+| Project        | Tech Stack                                                                 | Description                     | Links                                                                                     |
+|----------------|----------------------------------------------------------------------------|---------------------------------|-------------------------------------------------------------------------------------------|
+| **🎨 Portfolio**  | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> | Responsive personal portfolio   | <img src="https://img.shields.io/badge/🌐_Demo-2EA44F?style=flat&logo=rocket"> <img src="https://img.shields.io/badge/💻_Code-181717?style=flat&logo=github"> |
+| **♟️ Checkers**   | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> | Classic checkers game           | <img src="https://img.shields.io/badge/🎮_Play-0074D9?style=flat&logo=game-controller"> <img src="https://img.shields.io/badge/💻_Code-181717?style=flat&logo=github"> |
+| **🛒 FakeStore**  | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"> | E-commerce demo with cart       | <img src="https://img.shields.io/badge/🛍️_Demo-FF6B00?style=flat&logo=shopping-cart"> <img src="https://img.shields.io/badge/💻_Code-181717?style=flat&logo=github"> |
+| **💬 Chat App**   | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"> | Real-time messaging platform    | <img src="https://img.shields.io/badge/💬_Try-9C27B0?style=flat&logo=telegram"> <img src="https://img.shields.io/badge/💻_Code-181717?style=flat&logo=github"> |
 
 </div>
 
 <div align="center" style="margin-top: 2rem;">
   <a href="https://github.com/icarox52?tab=repositories">
-    <img src="https://img.shields.io/badge/👨‍💻_Ver_Todos_Repositórios-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/📂_Explore_All_Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 
