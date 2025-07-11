@@ -13,10 +13,17 @@
 ---
 
 
+
+<div align="center">
+
 ### 📊 GitHub Stats
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=icarox52&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=compact&theme=blueberry&hide_border=true&hide=html,css)](https://github.com/icarox52)
 
+</div>
 <br>
 
 
