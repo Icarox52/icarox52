@@ -1,90 +1,51 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&width=580&height=50&lines=Ícaro+Machado;Full+Stack+Developer;Innovative+Problem+Solver;Technology+Evangelist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&width=600&lines=Hi,+I'm+Ícaro+Machado!+🌐+💻" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=icarox52&label=PROFILE+VIEWS&color=0ea5e9&style=flat" alt="Profile views" />
-</div>
+### 👨‍💻 Fullstack developer, I'm 12 years old and I'm passionate about technology! I work with JavaScript and modern frameworks, creating complete projects — from frontend to backend. Always learning and evolving.🚀
+
+### 💻 I'm enrolled in a professional full stack development course focused on practical, real-world skills (HTML, CSS, JavaScript, React, Node.js, databases, Git, and more).
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@icaroxrz7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmericaro/)
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-2E3440?style=for-the-badge&logo=javascript&logoColor=61DAFB)](https://icarox52.github.io/PortfolioNovo/)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> Professional Profile
 
-# Professional Summary
-+ Full-stack developer specializing in JavaScript/TypeScript ecosystems
-+ Proven track record in building scalable web applications
-+ 3x Hackathon Finalist | Technical Content Creator
-+ Currently enhancing expertise in cloud architectures
+### 📊 GitHub Stats
 
-# Technical Education
-✓ Professional Full Stack Development Certification (400+ hours)
-✓ Advanced Database Design & Optimization
-✓ Microservices Architecture Training
+[![Top Langs](user=icarox52&theme=blueberry&hide_border=true&date_format=M%2520j%255B%252C%2520Y%255D)](https://github.com/icarox52/github-readme-stats)
+
+<br>
+
 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Technologist.png" width="28" /> Technical Competencies
+### Technologies I use in my daily work
 
-<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mysql,vscode,tailwind,git,github,react,firebase)](https://skillicons.dev)
 
-### Core Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="28" /> Project Portfolio
+### 🚀 **Featured Projects**  
 
-<div align="center">
+<div align="center">  
 
-| Project | Technologies | Description | Links |
-|---------|--------------|-------------|-------|
-| **Modern Portfolio** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | Professional showcase with analytics | [![Live](https://img.shields.io/badge/LIVE-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://icarox52.github.io/PortfolioNovo/) [![Code](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/icarox52/PortfolioNovo) |
-| **E-Commerce Platform** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) | Full-featured retail solution | [![Demo](https://img.shields.io/badge/DEMO-FF6B00?style=flat-square&logo=shoppingbag&logoColor=white)](https://icarox52.github.io/fakeStoreApi/) [![Code](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/icarox52/fakeStoreApi) |
-| **Real-time Chat** | ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) | Enterprise messaging solution | [![Try](https://img.shields.io/badge/TRY-9C27B0?style=flat-square&logo=telegram&logoColor=white)](https://icarox52.github.io/chat/) [![Code](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/icarox52/chat) |
+| Project | Technologies | Description | Demo |  
+|---------|--------------|-------------|------|  
+| **[<img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width=20> Personal Portfolio](https://icarox52.github.io/PortfolioNovo/)** | <div style="display: flex; justify-content: center; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript"> </div> | A responsive and modern portfolio showcasing my work | <a href="https://icarox52.github.io/PortfolioNovo/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-2ea44f?style=for-the-badge&logo=rocket&logoColor=white"></a> |  
+| **[<img src="https://cdn-icons-png.flaticon.com/512/2693/2693471.png" width=20> Checkers Game](https://icarox52.github.io/jogoDeDamasparte2./)** | <div style="display: flex; justify-content: center; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript"> </div> | A classic checkers game with intuitive UI | <a href="https://icarox52.github.io/jogoDeDamasparte2./" target="_blank"><img src="https://img.shields.io/badge/-Play%20Now-blue?style=for-the-badge&logo=game-controller&logoColor=white"></a> |  
+| **[<img src="https://cdn-icons-png.flaticon.com/512/3144/3144456.png" width=20> FakeStore API](https://icarox52.github.io/fakeStoreApi/)** | <div style="display: flex; justify-content: center; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=24 title="Bootstrap"> </div> | An e-commerce site with cart functionality | <a href="https://icarox52.github.io/fakeStoreApi/" target="_blank"><img src="https://img.shields.io/badge/-View%20Demo-ff6b00?style=for-the-badge&logo=shopping-cart&logoColor=white"></a> |  
+| **[<img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width=20> Realtime Chat](https://icarox52.github.io/chat/)** | <div style="display: flex; justify-content: center; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=24 title="Node.js"> </div> | A real-time chat app with message history | <a href="https://icarox52.github.io/chat/" target="_blank"><img src="https://img.shields.io/badge/-Try%20Chat-9c27b0?style=for-the-badge&logo=telegram&logoColor=white"></a> |  
 
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Charts/Chart%20Increasing.png" width="28" /> Development Metrics
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=icarox52&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=compact&theme=blueberry&hide_border=true&hide=html,css)](https://github.com/icarox52)
-
-</div>
+</div>  
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Handshake.png" width="28" /> Professional Network
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icarox52)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&logo=react&logoColor=white)](https://icarox52.github.io/PortfolioNovo/)
 
-</div>
-
-<p align="center">
-  <img src="https://github.com/Icarox52/icarox52/blob/main/github-user-contribution%20(6).svg" alt="Contribution Graph">
-</p>
+<img src="https://github.com/Icarox52/icarox52/blob/main/github-user-contribution%20(6).svg">
