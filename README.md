@@ -18,8 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/icarox52)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=icarox52&theme=calm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-
 <br>
 
 
