@@ -8,8 +8,9 @@
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@icaroxrz7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmericaro/)
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://icarox52.github.io/PortfolioNovo/)
-
+<a href="https://icarox52.github.io/PortfolioNovo/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+</a>
 ---
 
 
