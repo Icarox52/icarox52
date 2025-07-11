@@ -2,13 +2,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&width=600&lines=Hi,+I'm+Ícaro+Machado!+🌐+💻" alt="Typing SVG" />
 </p>
 
-### 👨‍💻 Fullstack developer, I'm 12 years old and I'm passionate about technology! I work with JavaScript and modern frameworks, creating complete projects — from frontend to backend. Always learning and evolving.🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-12-blue?style=flat-square&color=blue&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-0a192f?style=flat-square&color=black" />
+  <img src="https://img.shields.io/badge/Stack-JS%20%7C%20React%20%7C%20Node.js-61DAFB?style=flat-square&logo=javascript&logoColor=white" />
+</p>
 
-### 💻 I'm enrolled in a professional full stack development course focused on practical, real-world skills (HTML, CSS, JavaScript, React, Node.js, databases, Git, and more).
+---
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@icaroxrz7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmericaro/)
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-2E3440?style=for-the-badge&logo=javascript&logoColor=61DAFB)](https://icarox52.github.io/PortfolioNovo/)
+### 👨‍💻 About Me
+
+I'm a **fullstack developer** with a deep passion for technology. Despite being only 12, I'm focused, creative, and constantly building real-world projects — from frontend to backend.
+
+📚 I'm currently enrolled in a **professional full stack development course** covering:
+- HTML, CSS, JavaScript  
+- React, Node.js, Express  
+- Databases (Firebase / MySQL)  
+- Git & Deployment  
+
+💡 I love transforming ideas into digital solutions, always learning and evolving with every project.
 
 ---
 
