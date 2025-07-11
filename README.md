@@ -1,58 +1,96 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&width=600&lines=Hi,+I'm+Ícaro+Machado!+🌐+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&width=580&height=50&lines=Ícaro+Machado;Full+Stack+Developer;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 </p>
 
-### 👨‍💻 Fullstack developer, I'm 12 years old and I'm passionate about technology! I work with JavaScript and modern frameworks, creating complete projects — from frontend to backend. Always learning and evolving.🚀
-
-### 💻 I'm enrolled in a professional full stack development course focused on practical, real-world skills (HTML, CSS, JavaScript, React, Node.js, databases, Git, and more).
-
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@icaroxrz7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmericaro/)
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-2E3440?style=for-the-badge&logo=javascript&logoColor=61DAFB)](https://icarox52.github.io/PortfolioNovo/)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=icarox52&label=PROFILE+VIEWS&color=0ea5e9&style=flat" alt="Profile views" />
+</div>
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> About Me
 
+
+# Professional Focus
++ Full-stack developer specializing in JavaScript technologies
++ Passionate about creating complete web solutions
++ Committed to clean code and best practices
++ Constantly expanding my technical knowledge
+
+# Education & Training
+✓ Youth Space - Full Stack Development (Fortaleza-CE)
+✓ 400+ hours of hands-on coding experience
+✓ Practical projects with real-world applications
+
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Technologist.png" width="28" /> Technical Skills
 
 <div align="center">
 
-### 📊 GitHub Stats
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=icarox52&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+### Databases & Storage
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=compact&theme=blueberry&hide_border=true&hide=html,css)](https://github.com/icarox52)
+### Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
-<br>
-
-
 
 ---
 
-### Technologies I use in my daily work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="28" /> Featured Projects
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mysql,vscode,tailwind,git,github,react,firebase)](https://skillicons.dev)
+<div align="center">
 
+| Project | Tech Stack | Description | Links |
+|---------|------------|-------------|-------|
+| **Portfolio Pro** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square) | Professional developer portfolio | [![Live](https://img.shields.io/badge/LIVE-38BDF8?style=flat-square)](https://icarox52.github.io/PortfolioNovo/) [![Code](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github)](https://github.com/icarox52/PortfolioNovo) |
+| **Checkers Game** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square) | Classic board game implementation | [![Play](https://img.shields.io/badge/PLAY-0078D6?style=flat-square)](https://icarox52.github.io/jogoDeDamasparte2./) [![Code](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github)](https://github.com/icarox52/jogoDeDamasparte2.) |
+| **E-Commerce Site** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square) | API-driven online store | [![Demo](https://img.shields.io/badge/DEMO-FF6B00?style=flat-square)](https://icarox52.github.io/fakeStoreApi/) [![Code](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github)](https://github.com/icarox52/fakeStoreApi) |
+| **Chat Application** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square) | Real-time messaging platform | [![Try](https://img.shields.io/badge/TRY-9C27B0?style=flat-square)](https://icarox52.github.io/chat/) [![Code](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github)](https://github.com/icarox52/chat) |
 
----
-
-### 🚀 **Featured Projects**  
-
-<div align="center">  
-
-| Project | Technologies | Description | Demo |  
-|---------|--------------|-------------|------|  
-| **[<img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width=20> Personal Portfolio](https://icarox52.github.io/PortfolioNovo/)** | <div style="display: flex; justify-content: center; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript"> </div> | A responsive and modern portfolio showcasing my work | <a href="https://icarox52.github.io/PortfolioNovo/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-2ea44f?style=for-the-badge&logo=rocket&logoColor=white"></a> |  
-| **[<img src="https://cdn-icons-png.flaticon.com/512/2693/2693471.png" width=20> Checkers Game](https://icarox52.github.io/jogoDeDamasparte2./)** | <div style="display: flex; justify-content: center; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript"> </div> | A classic checkers game with intuitive UI | <a href="https://icarox52.github.io/jogoDeDamasparte2./" target="_blank"><img src="https://img.shields.io/badge/-Play%20Now-blue?style=for-the-badge&logo=game-controller&logoColor=white"></a> |  
-| **[<img src="https://cdn-icons-png.flaticon.com/512/3144/3144456.png" width=20> FakeStore API](https://icarox52.github.io/fakeStoreApi/)** | <div style="display: flex; justify-content: center; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=24 title="Bootstrap"> </div> | An e-commerce site with cart functionality | <a href="https://icarox52.github.io/fakeStoreApi/" target="_blank"><img src="https://img.shields.io/badge/-View%20Demo-ff6b00?style=for-the-badge&logo=shopping-cart&logoColor=white"></a> |  
-| **[<img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width=20> Realtime Chat](https://icarox52.github.io/chat/)** | <div style="display: flex; justify-content: center; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=24 title="Node.js"> </div> | A real-time chat app with message history | <a href="https://icarox52.github.io/chat/" target="_blank"><img src="https://img.shields.io/badge/-Try%20Chat-9c27b0?style=for-the-badge&logo=telegram&logoColor=white"></a> |  
-
-</div>  
+</div>
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Charts/Chart%20Increasing.png" width="28" /> Development Activity
 
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=icarox52&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://github.com/Icarox52/icarox52/blob/main/github-user-contribution%20(6).svg">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=compact&theme=blueberry&hide_border=true)](https://github.com/icarox52)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge)](https://icarox52.github.io/PortfolioNovo/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/icarox52)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/programmericaro/)
+[![TikTok](https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@icaroxrz7)
+
+</div>
+
+<p align="center">
+  <img src="https://github.com/Icarox52/icarox52/blob/main/github-user-contribution%20(6).svg" alt="Contribution Graph">
+</p>
