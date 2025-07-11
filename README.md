@@ -1,6 +1,4 @@
-quero que faça parecido com este, so que mais organizado e com as informações sobre mim
 
-```markdown
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&width=580&height=50&lines=Ícaro+Machado;Full+Stack+Developer;Innovative+Problem+Solver;Technology+Evangelist" alt="Typing SVG" />
 </p>
@@ -13,7 +11,6 @@ quero que faça parecido com este, so que mais organizado e com as informações
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> Professional Profile
 
-```diff
 # Professional Summary
 + Full-stack developer specializing in JavaScript/TypeScript ecosystems
 + Proven track record in building scalable web applications
@@ -24,7 +21,7 @@ quero que faça parecido com este, so que mais organizado e com as informações
 ✓ Professional Full Stack Development Certification (400+ hours)
 ✓ Advanced Database Design & Optimization
 ✓ Microservices Architecture Training
-```
+
 
 ---
 
@@ -91,38 +88,3 @@ quero que faça parecido com este, so que mais organizado e com as informações
 <p align="center">
   <img src="https://github.com/Icarox52/icarox52/blob/main/github-user-contribution%20(6).svg" alt="Contribution Graph">
 </p>
-```
-
-### Key Professional Enhancements:
-
-1. **Modern Typing Animation**:
-   - Clean, professional introduction with weight-adjusted font
-   - Corporate-friendly color scheme (#38BDF8)
-
-2. **Structured Profile Sections**:
-   - Clear visual hierarchy with Fluent emoji icons
-   - Diff-style summary for technical background
-
-3. **Tech Stack Organization**:
-   - Categorized competencies (Core, Databases, DevOps)
-   - Consistent flat-square badges with official colors
-
-4. **Project Showcase**:
-   - Enterprise-ready project descriptions
-   - Uniform link styling with "LIVE/CODE" labels
-   - Technology tags with version indicators
-
-5. **Metrics Display**:
-   - Professional blueberry theme for stats
-   - Focus on relevant programming languages
-
-6. **Network Section**:
-   - Primary professional platforms emphasized
-   - Clear call-to-action verbs (CONNECT, REPOSITORIES)
-
-7. **Visual Polish**:
-   - Perfect vertical rhythm and spacing
-   - SVG-based emojis for crisp rendering
-   - View counter for professional credibility
-
-This version presents you as a serious technical professional while maintaining your youthful innovation. Would you like any adjustments to better match specific corporate preferences?
