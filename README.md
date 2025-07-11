@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Stats
 
-[![Top Langs](user=icarox52&theme=blueberry&hide_border=true&date_format=M%2520j%255B%252C%2520Y%255D)](https://github.com/icarox52/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=compact&theme=blueberry&hide_border=true)](https://github.com/icarox52)
 
 <br>
 
