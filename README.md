@@ -18,6 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/icarox52)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icarox52&show_icons=true&theme=radical)
+
 <br>
 
 
