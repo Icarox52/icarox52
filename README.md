@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=compact&theme=calm&hide_border=true)](https://github.com/icarox52)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarox52&layout=compact&theme=blueberry&hide_border=true&custom_title=My+Tech+Stack&title_color=38bdf8&text_color=94a3b8)](https://github.com/icarox52)
 
 <br>
 
