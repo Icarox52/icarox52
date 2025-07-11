@@ -22,7 +22,7 @@
 
 ### Technologies I use in my daily work
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mysql,vscode,tailwind,git,github,react,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mysql,vscode,tailwind,git,github,react,firebase,canva)](https://skillicons.dev)
 
 
 ### 🚀 Featured Projects
