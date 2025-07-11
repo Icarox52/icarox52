@@ -8,7 +8,7 @@
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@icaroxrz7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmericaro/)
-[![Portfolio](https://img.shields.io/badge/👨‍💻_Portfolio-9C27B0?style=for-the-badge&logo=netlify&logoColor=white)](https://icarox52.github.io/PortfolioNovo/)
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://icarox52.github.io/PortfolioNovo/)
 
 ---
 
