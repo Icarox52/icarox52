@@ -10,7 +10,6 @@
 ### 💻 I'm enrolled in a professional, in-person fullstack development course focusing on practical skills (HTML, CSS, JavaScript, React, Node.js, databases, Git, and more).
 
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/programmericaro/)
-[![Portfólio](https://img.shields.io/badge/🚀_Portfólio-white?style=for-the-badge&logo=vercel&logoColor=black)](https://icarox52.github.io/PortfolioNovo/)
 
 
 
