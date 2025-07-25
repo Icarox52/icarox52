@@ -20,7 +20,7 @@
 ### Technologies I use in my daily work
 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,vscode,tailwind,github,react,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,vscode,tailwind,github,react,firebase,figma&theme=light)](https://skillicons.dev)
 
 
 
