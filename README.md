@@ -11,7 +11,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/programmericaro/)
 [![TikTok](https://img.shields.io/badge/TikTok-white?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@programmericaro1)
-[![Portfólio](https://img.shields.io/badge/Portfólio-white?style=for-the-badge&logo=github&logoColor=black)](https://icarox52.github.io/PortfolioNovo/)
 
 
 
