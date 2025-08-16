@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=600&lines=Hi,+I'm+Ícaro+Machado!+🌐+💻" alt="Typing SVG" />
 </p>
 
-### 🌐 Fullstack Developer Prodigy | 12 years
+### 🌐 Fullstack Developer Prodigy | 12 years old
 I create projects with JavaScript, modern frameworks, libraries, and databases — always learning and evolving.
 
 ### 💻 Fullstack Development Course
